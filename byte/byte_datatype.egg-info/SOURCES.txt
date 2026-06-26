@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+byte/__init__.py
+byte/byte.py
+byte_datatype.egg-info/PKG-INFO
+byte_datatype.egg-info/SOURCES.txt
+byte_datatype.egg-info/dependency_links.txt
+byte_datatype.egg-info/top_level.txt
+tests/test_byte.py

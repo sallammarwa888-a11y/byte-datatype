@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: byte-datatype
+Version: 1.0.0
+Summary: A Byte datatype for Python.
+Author: Your Name
+License-Expression: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# Byte
+
+A simple unsigned 8-bit integer datatype for Python.
+
+```python
+from byte import Byte
+
+x = Byte(250)
+print(x + 10)  # Byte(4)
+```
